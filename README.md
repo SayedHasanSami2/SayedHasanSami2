@@ -1,3 +1,10 @@
+<p align="center">
+  <img src="<p align="center">
+  <img src="https://github.com/sayedhasansami2/sayedhasansami2/blob/main/github%20image.jpg?raw=true" alt="Sayed Hasan Sami" width="200" style="border-radius: 50%;" />
+</p>" alt="Sayed Hasan Sami" width="200" style="border-radius: 50%;" />
+</p>
+
+
 <h1 align="center">Hi 👋, I'm Sayed Hasan Sami</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh</h3>
 
