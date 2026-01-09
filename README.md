@@ -45,11 +45,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedhasansami2&show_icons=true&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedhasansami2&show_icons=true&include_all_commits=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhasansami2&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhasansami2&layout=compact" />
 </p>
+
 
 
