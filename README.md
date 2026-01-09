@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://github.com/sayedhasansami2/sayedhasansami2/blob/main/github%20image.jpg?raw=true" alt="cover" width="100%" />
 </p>
-<h1 align="center">Hi 👋, I'm Sayed Hasan Sami</h1>
-<h3 align="center">A passionate full-stack developer from Bangladesh</h3>
+<h1 align="center">Hi, I'm Sayed Hasan Sami</h1>
+<h3 align="center">A passionate ML enthusiast from Bangladesh</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayedhasansami2&label=Profile%20views&color=0e75b6&style=flat" alt="sayedhasansami2" />
@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Machine Learnign and AL**  
 - 💬 Ask me about **C, C++**  
 - 📫 Reach me at **samihasan99655@gmail.com**  
-- ⚡ Fun fact: **I love railfanning and photography.**
+- ⚡ Hobby: **I love railfanning and photography.**
 
 ---
 
