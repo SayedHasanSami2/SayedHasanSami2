@@ -9,8 +9,8 @@
 </p>
 
 - 🔭 I’m currently working on [Campus-Ride](https://github.com/badhon-dalbot/campus-ride.git)  
-- 🌱 I’m currently learning **Flutter**  
-- 💬 Ask me about **Flutter, C++**  
+- 🌱 I’m currently learning **Machine Learnign and AL**  
+- 💬 Ask me about **C, C++**  
 - 📫 Reach me at **samihasan99655@gmail.com**  
 - ⚡ Fun fact: **I love railfanning and photography.**
 
