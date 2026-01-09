@@ -42,14 +42,13 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 </p>
 
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sayedhasansami2&show_icons=true&locale=en" alt="sayedhasansami2" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sayedhasansami2&show_icons=true&count_private=true&locale=en" alt="sayedhasansami2" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedhasansami2&show_icons=true&locale=en&layout=compact" alt="sayedhasansami2" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sayedhasansami2&layout=compact&count_private=true&locale=en" alt="sayedhasansami2" />
 </p>
+
